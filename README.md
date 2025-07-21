@@ -1,4 +1,5 @@
 # 🤖 GenAI Resume Matcher
+![Powered by OpenAI](https://img.shields.io/badge/Powered%20By-OpenAI-10a37f?logo=openai&logoColor=white)
 
 This is a simple Generative AI-powered web app that compares a **resume** with a **job description** using GPT (gpt-3.5-turbo). It returns:
 
@@ -43,4 +44,6 @@ Match score out of 100
 
 
 📌 Screenshot
-(Add a screenshot of your working app here if you’d like)
+<img width="2532" height="1083" alt="image" src="https://github.com/user-attachments/assets/9d4660f8-ce20-491c-a6a4-8ef193173b70" />
+<img width="2380" height="1046" alt="image" src="https://github.com/user-attachments/assets/2cfefa1d-68ff-412a-bb21-5525d74b167b" />
+
